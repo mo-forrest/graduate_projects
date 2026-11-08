@@ -58,4 +58,4 @@ Note: You are not required to implement these privacy and security measures in t
 | 3 | Task 1 Scenario 1 Document | Scenario 1 Task provided by WGU. |
 | 4 | Task 1 Scenario 1 Data File Zip | Scenario 1 Data provided by WGU. |
 | 5 | [Health Track Entity Relationship Diagram](Relational_Database/Health_Track_ERD.png) | Visual representation of entities, attributes, and relationships of the data. |
-| 6 | [Health Track Proposed Tables]() | Proposed columns and tables for the relational database. |
+| 6 | [Health Track Proposed Tables](Relational_Database/Health_Track_Proposed_Tables.xlsx) | Proposed columns and tables for the relational database. |
