@@ -45,9 +45,50 @@ C.  Discuss how the proposed database design addresses scalability concerns, inc
 
 D.  Outline the privacy and security measures that should be implemented in the proposed database design.
 
-
 Note: You are not required to implement these privacy and security measures in this task.
 
+
+## Part 2: Implementation
+
+E.  Implement the proposed database design in the WGU Assessment Lab environment by writing the following scripts:
+
+Note: Do not use the graphical user interface (GUI) to run these steps.
+
+1.  Create a database instance named "D597 Task 1" using the appropriate query language, based on the logical data model in part B.  Provide a screenshot showing the script and the database instance in the platform.
+
+2.  Import the data records from the chosen scenario CSV files into the database instance.  Provide a screenshot showing the script and the data correctly inserted or mapped into the database.
+
+3.  Create three queries to retrieve specific information from the database that will help to solve the identified business problem.  Provide a screenshot showing the script for each query and each successfully executed query.
+
+4.  Apply optimization techniques to improve your queries from part E3 by doing the following:
+
+    a.  Provide a screenshot showing the queries before optimization, along with corresponding analysis.
+
+    b.  Provide a screenshot showing the results after optimization techniques have been applied, along with corresponding analysis.
+
+    c.  Explain the optimization techniques used to improve the queries.
+
+5.  Submit all scripts as individual text files.
+
+
+## Part 3: Presentation
+
+To submit your recording, upload it to the Panopto drop box titled "Task 1: Relational Database Design and Implementation – MKN2 | D597." Once the recording has been uploaded and processed in Panopto's system, retrieve the URL of the recording from Panopto and copy and paste it into the Links option.  Upload the remaining task requirements using the Attachments option.
+
+F.  Provide a Panopto video recording that includes the presenter and a vocalized demonstration of the functionality of the code used for the analysis of the programming environment.  Include all of the following in your recording:
+
+    •   Discuss how database design and indexing strategies optimize performance.
+
+    •   Describe the technical environment used in your database implementation.
+
+    •   Demonstrate the functionality of the queries in the lab environment by running the queries during your demonstration.
+
+    •   Discuss how the queries solve the business problem described in part A1.
+
+G.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
+
+
+H.  Demonstrate professional communication in the content and presentation of your submission.
 
 
 ## Table of Contents for Repository Artifacts
