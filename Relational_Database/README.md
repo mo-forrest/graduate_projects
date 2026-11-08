@@ -57,4 +57,4 @@ Note: You are not required to implement these privacy and security measures in t
 | 2 | README.md | Overview of this project brief. |
 | 3 | Task 1 Scenario 1 Document | Scenario 1 Task provided by WGU. |
 | 4 | Task 1 Scenario 1 Data File Zip | Scenario 1 Data provided by WGU. |
-| 5 | Health Track Entity Relationship Diagram | Visual representation of entities, attributes, and relationships of the data. |
+| 5 | [Health Track Entity Relationship Diagram](Relational_Database/Health_Track_ERD.png) | Visual representation of entities, attributes, and relationships of the data. |
