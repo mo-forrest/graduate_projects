@@ -1,5 +1,5 @@
 # graduateprojects
-Data Projects created during my graduate program.
+Data Projects created during my graduate program at Western Governors University
 
 # data_projects
 | Project number | Title | Description |
