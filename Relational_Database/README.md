@@ -53,7 +53,7 @@ Note: You are not required to implement these privacy and security measures in t
 ## Table of Contents for Repository Artificats
 | File Number | Title | Description |
 | :----------: | ------- | --------- |
-| 1 | Relational Database Design and Implementation Document() | Full explanation of the completed project. |
+| 1 | Relational Database Design and Implementation Document(Relational_Database/D597_Task_1.docx) | Full explanation of the completed project. |
 | 2 | README.md | Overview of this project brief. |
 | 3 | Task 1 Scenario 1 Document | Scenario 1 Task provided by WGU. |
 | 4 | Task 1 Scenario 1 Data File Zip | Scenario 1 Data provided by WGU. |
