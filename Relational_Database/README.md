@@ -55,7 +55,7 @@ Note: You are not required to implement these privacy and security measures in t
 | :----------: | ------- | --------- |
 | 1 | [Relational Database Design and Implementation Document](Relational_Database/D597_Task_1.docx) | Full explanation of the completed project. |
 | 2 | [README.md](Relational_Database/README.md) | Overview of this project brief. |
-| 3 | [Task 1 Scenario 1 Document](Relational_Database/Task 1 Scenario 1.docx) | Scenario 1 Task provided by WGU. |
-| 4 | [Task 1 Scenario 1 Data Zip File](https://github.com/mo-forrest/graduate_projects/blob/674974f118f7e236be164700ff6ad73bbf5425ab/Relational_Database/Task%201%20Scenario%201%20Data%20Files.zip))| Scenario 1 Data provided by WGU. |
+| 3 | [Task 1 Scenario 1 Document](https://github.com/mo-forrest/graduate_projects/blob/6d4ffc007d4903b5e9832411b61f8c68fdbaed90/Relational_Database/Task%201%20Scenario%201.docx) | Scenario 1 Task provided by WGU. |
+| 4 | [Task 1 Scenario 1 Data Zip File](https://github.com/mo-forrest/graduate_projects/blob/674974f118f7e236be164700ff6ad73bbf5425ab/Relational_Database/Task%201%20Scenario%201%20Data%20Files.zip)| Scenario 1 Data provided by WGU. |
 | 5 | [Health Track Entity Relationship Diagram](Relational_Database/Health_Track_ERD.png) | Visual representation of entities, attributes, and relationships of the data. |
 | 6 | [Health Track Proposed Tables](Relational_Database/Health_Track_Proposed_Tables.xlsx) | Proposed columns and tables for the relational database. |
