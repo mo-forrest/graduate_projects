@@ -88,7 +88,7 @@ G.  Demonstrate professional communication in the content and presentation of yo
 ## Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :----------: | ------- | --------- |
-| 1 | [Nonrelational Database Design and Implementation Document]() | Full explanation of the completed project. |
+| 1 | [Nonrelational Database Design and Implementation Document](https://github.com/mo-forrest/graduate_projects/blob/cb456d5ade9ffc9cb5b8679d36444965bf06d35f/Nonrelational_Database/D597%20Task%202.docx) | Full explanation of the completed project. |
 | 2 | [README.md]() | Overview of this project brief. |
 | 3 | [Task 1 Scenario 2 Document]() | Scenario 2 Task provided by WGU. |
 | 4 | [Task 1 Scenario 2 Data Zip File]()| Scenario 1 Data provided by WGU. |
