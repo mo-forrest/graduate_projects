@@ -17,3 +17,69 @@ Choose either "Scenario 1" or "Scenario 2" in the Supporting Documents. Each sce
 
 Note: Please use a different scenario for this task than the one you selected in Task 1.
 
+
+## Part 1: Design Document
+
+A.  Select either "Scenario 1" or "Scenario 2" from the Supporting Documents and complete the following:
+
+    Note: Please use a different scenario for this task than the one you selected in Task 1.
+
+    1.  Describe a business problem within the chosen scenario that can be solved with a database solution.
+
+        a.  Justify why a NoSQL database solution will solve the business problem described in part A1.
+
+        b.  Identify a NoSQL database type to solve the business problem described in part A1.
+
+        c.  Explain how the business data will be used within the NoSQL database solution.
+
+
+B.  Discuss how the proposed NoSQL database design addresses scalability concerns, including strategies that align with the chosen scenario to ensure the database can handle growth and increased demand.
+
+
+C.  Outline the privacy and security measures that should be implemented in the proposed NoSQL database design.
+
+
+    Note: You are not required to implement these privacy and security measures in this task.
+
+
+
+## Part 2: Implementation
+
+D.  Implement the proposed database design in the WGU Assessment Lab environment by writing the following scripts:
+
+    1.  Create a database instance named "D597 Task 2" using the appropriate query language, based on your design in part A.  Provide a           screenshot showing the script and the database instance in the platform.
+    
+    2.  Insert or map the data records from the chosen scenario JSON files into the database instance.  Provide a screenshot showing the          script and the data correctly inserted or mapped into the database.
+    
+    3.  Write three queries to retrieve specific information from the database that will help to solve the business problem described in          part A.  Provide a screenshot showing the script for each query and a screenshot for each query successfully executed.
+
+4.  Apply optimization techniques to improve your queries from part D3 by doing the following:
+
+    a.  Provide a screenshot showing the queries before optimization, along with corresponding analysis.
+
+    b.  Provide a screenshot showing the results after optimization techniques have been applied, along with corresponding analysis.
+
+    c.  Explain the optimization techniques used to improve the queries.
+
+5.  Submit all scripts as individual text files.
+
+
+
+## Part 3: Presentation
+
+E.  Provide a Panopto video recording that includes the presenter and a vocalized demonstration of the functionality of the code used for the analysis of the programming environment.  Include all of the following in your recording:
+
+    •   Discuss how database design and indexing strategy optimize performance.
+
+    •   Describe the technical environment used in your database implementation.
+
+    •   Demonstrate the functionality of the script in the lab environment by running the queries during your demonstration.
+
+    •   Discuss how the script solves the business problem described in part A1.
+
+
+F.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
+
+
+
+G.  Demonstrate professional communication in the content and presentation of your submission.
