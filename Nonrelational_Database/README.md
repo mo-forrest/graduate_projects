@@ -91,5 +91,5 @@ G.  Demonstrate professional communication in the content and presentation of yo
 | 1 | [Nonrelational Database Design and Implementation Document](https://github.com/mo-forrest/graduate_projects/blob/cb456d5ade9ffc9cb5b8679d36444965bf06d35f/Nonrelational_Database/D597%20Task%202.docx) | Full explanation of the completed project. |
 | 2 | [README.md](https://github.com/mo-forrest/graduate_projects/blob/9938f2e7df6aff011003de6b2b67bb940bed08d1/Nonrelational_Database/README.md) | Overview of this project brief. |
 | 3 | [Task 1 Scenario 2 Document]() | Scenario 2 Task provided by WGU. |
-| 4 | [Task 1 Scenario 2 Data Zip File]()| Scenario 1 Data provided by WGU. |
+| 4 | [Task 1 Scenario 2 Data Zip File](https://github.com/mo-forrest/graduate_projects/blob/0c3337883adc7f928aa52cb76bf3afa14c5b854c/Nonrelational_Database/Task%202%20Scenario%202%20Data%20Files.zip)| Scenario 1 Data provided by WGU. |
 
