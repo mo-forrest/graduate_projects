@@ -83,3 +83,13 @@ F.  Acknowledge sources, using in-text citations and references, for content tha
 
 
 G.  Demonstrate professional communication in the content and presentation of your submission.
+
+
+## Table of Contents for Repository Artifacts
+| File Number | Title | Description |
+| :----------: | ------- | --------- |
+| 1 | [Nonrelational Database Design and Implementation Document]() | Full explanation of the completed project. |
+| 2 | [README.md]() | Overview of this project brief. |
+| 3 | [Task 1 Scenario 2 Document]() | Scenario 2 Task provided by WGU. |
+| 4 | [Task 1 Scenario 2 Data Zip File]()| Scenario 1 Data provided by WGU. |
+
